@@ -1,0 +1,18 @@
++++
+title = "Upcoming Cloud Native Architecture Training on O'Reilly's Safari"
+date = "2017-05-14"
+Categories = ["cloud", "architecture"]
++++
+:compat-mode:
+
+I'm offering online training in Cloud Native Architecture via O'Reilly's amazing Safari platform. Several dates still have openings:
+
+* https://www.safaribooksonline.com/live-training/courses/cloud-native-architecture-patterns/0636920082057/[September 6-7, 2017: 12:00pm - 4:00pm EDT]
+* https://www.safaribooksonline.com/live-training/courses/cloud-native-architecture-patterns/0636920082118/[September 13-14, 2017: 12:00pm - 4:00pm EDT]
+* https://www.safaribooksonline.com/live-training/courses/cloud-native-architecture-patterns/0636920082231/[October 4-5, 2017: 12:00pm - 4:00pm EDT]
+
+More dates will be announced soon.
+
+Designed for software architects and senior developers working on medium-to-large scale enterprise systems, this two-day, hands-on course will introduce you to the cloud native architectural pattern language and give you practice applying it. By the end of this course, you’ll be able to articulate the high-level narrative of cloud native architecture and why it is so important to your company. You’ll also be able to apply cloud native architecture patterns to various practice “katas” to prepare for future use on real projects.
+
+Join us!

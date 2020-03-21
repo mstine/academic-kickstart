@@ -1,0 +1,16 @@
++++
+title = "cloud native app arch training"
+date = "2015-02-18"
+Categories = ["cloud", "spring", "architecture", "cloudfoundry"]
++++
+:compat-mode:
+
+I'm offering a two-day, intensive, hands-on training course at the upcoming O'Reilly Software Architecture Conference in Boston, MS.
+The class is entitled http://softwarearchitecturecon.com/sa2015/public/schedule/detail/39989[Cloud-Native Application Architectures with Spring and Cloud Foundry].
+In this class you will have the opportunity to implement an easy-to-understand storefront system (complete with product search, details, reviews, and recommendations) as a cloud-native architecture using Spring and Cloud Foundry.
+In addition, you'll get hands-on exposure to the Netflix OSS family of technologies.
+All of this will happen over the course of 8 90-minute training sessions with 26 self-guided hands-on labs.
+
+Use the discount code *SPRING* for a 20% discount on your pass!
+
+Join us!

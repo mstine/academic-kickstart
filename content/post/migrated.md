@@ -1,0 +1,6 @@
++++
+date = "2007-06-19"
+title = "migrated"
++++
+
+I recently migrated all of my Java/Development related posts from [http://www.analienandastranger.com](http://www.analienandastranger.com). I want to make this a PRIMARILY Java/Development-related blog. When I was splitting my efforts between Christianity and Software Development, I was quickly getting burned out and not writing anything. If you want to read any of my old devotional posts, I will be keeping the other blog alive for awhile. Since the hosting is being provided to me free (as well as the domain), I will in good conscience need to shut it down eventually. I just feel that using Blogger gives me greater visibility - I do want people to actually read this stuff, ya know? :-)
