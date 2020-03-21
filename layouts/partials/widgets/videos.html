@@ -1,0 +1,9 @@
+{{ $st := .page }}
+
+<div class="row">
+    <div class="col-lg-12">
+      {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
+      {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+      {{ $st.Content }}
+    </div>
+</div>
