@@ -2,35 +2,169 @@
     "items": [
         {
             "type": "youtube",
+            "featured": true,
             "id": "2E-HM7I6uzQ",
-            "title": "",
-            "url": "",
+            "title": "Design and Architecture: Special Dumpster Fire Unit",
             "alt_title": "Full Keynote Available on Safari",
             "alt_url": "https://www.oreilly.com/library/view/oreilly-software-architecture/9781492050506/video324051.html"
         },
         {
             "type": "youtube",
+            "featured": true,
             "id": "FggQ_C_hvck",
-            "title": "",
-            "url": "",
-            "alt_title": "",
-            "alt_url": ""
+            "title": "Code the Future"
         },
         {
             "type": "youtube",
+            "featured": true,
             "id": "uksO0elikdg",
-            "title": "",
-            "url": "",
-            "alt_title": "",
-            "alt_url": ""
+            "title": "Architectures That Bend But Don't Break"
         },
         {
             "type": "youtube",
+            "featured": true,
             "id": "slRCAaEPj_8",
-            "title": "",
-            "url": "",
-            "alt_title": "",
-            "alt_url": ""
+            "title": "Microservices Testing Strategies"
+        },
+        {
+            "type": "youtube",
+            "id": "LZnGGXAlFUo",
+            "title": "The Patterns of App Replatforming (Built to Adapt @ SpringOne Platform 2017)"
+        },
+        {
+            "type": "youtube",
+            "id": "e59pTjaVPCs",
+            "title": "Serverless? Not so FaaS! (2017 Devoxx UK)"
+        },
+        {
+            "type": "youtube",
+            "id": "pLmUR4Ua90E",
+            "title": "Resilient Architecture (Voxxed Days Belgrade 2017)"
+        },
+        {
+            "type": "youtube",
+            "id": "3SreWHsmkOc",
+            "title": "Why Cloud-Native Enterprise Security Matters (2017 O'Reilly Security Keynote)"
+        },
+        {
+            "type": "web",
+            "url": "https://skillsmatter.com/skillscasts/10779-looking-forward-to-peter-maciver-s-and-matthew-stine-talk",
+            "title": "A Microservices Journey at JPMorgan Chase"
+        },
+        {
+            "type": "youtube",
+            "id": "9Y4dGIaEqPk",
+            "title": "Resilient Architecture (2017 Devoxx Poland)"
+        },
+        {
+            "type": "youtube",
+            "id": "MqgLSxOQAmg",
+            "title": "Give Me That Old-Time Pattern Language - Preview (2017 O'Reilly SACON Keynote)"
+        },
+        {
+            "type": "web",
+            "url": "https://www.safaribooksonline.com/library/view/oreilly-software-architecture/9781491976203/video302739.html",
+            "title": "Give Me That Old-Time Pattern Language - Full (2017 O'Reilly SACON Keynote)"
+        },
+        {
+            "type": "youtube",
+            "id": "E5dk9Xdhw7E",
+            "title": "Serverless? Not so FaaS! (2017 Devoxx Poland)"
+        },
+        {
+            "type": "youtube",
+            "id": "GKQwzAVud60",
+            "title": "Antifragile Architectures (2016 Devoxx Poland)"
+        },
+        {
+            "type": "youtube",
+            "id": "sRJmjO5D3KE",
+            "title": "Reactive Fault Tolerant Programming with Hystrix and RxJava (2016 Devoxx Poland)"
+        },
+        {
+            "type": "web",
+            "url": "https://apigee.com/about/blog/technology/microservices-soa-done-right",
+            "title": "Is Microservices SOA Done Right? (Apigee Webinar)"
+        },
+        {
+            "type": "web",
+            "url": "https://www.safaribooksonline.com/library/view/oreilly-software-architecture/9781491924563/part42.html",
+            "title": "To Microservices and Beyond! (2016 O'Reilly SACON)"
+        },
+        {
+            "type": "youtube",
+            "id": "cpgsz4omU0A",
+            "title": "The Cloud Native Journey (Webinar)"
+        },
+        {
+            "type": "youtube",
+            "id": "tudhG_mDMdk",
+            "title": "Lattice: A Cloud-Native Platform for Your Spring Applications (SpringOne2GX 2015)"
+        },
+        {
+            "type": "youtube",
+            "id": "Aj4jcR-ck2E",
+            "title": "Cloud Native Apps Panel (VMWorld 2015 theCUBE)"
+        },
+        {
+            "type": "youtube",
+            "id": "DBIm6gDpSNg",
+            "title": "Deploying Microservice Architectures with Cloud Foundry (CF Summit 2015)"
+        },
+        {
+            "type": "youtube",
+            "id": "hV5TTSiFhRs",
+            "title": "Building Distributed Systems with Netflix OSS and Spring Cloud (POSH Meetup - 2015-January)"
+        },
+        {
+            "type": "youtube",
+            "id": "bozclHEhY0Y",
+            "title": "To Microservices and Beyond (YOW! 2014)"
+        },
+        {
+            "type": "youtube",
+            "id": "eH4zQ8qGzO4",
+            "title": "A Java Dev Learns to Go (The Rich Web Experience 2014)"
+        },
+        {
+            "type": "youtube",
+            "id": "vm8PcbcsYxU",
+            "title": "Architecting for Continuous Delivery (Webinar)"
+        },
+        {
+            "type": "youtube",
+            "id": "iMvCOEsSuAc",
+            "title": "Developing Microservices for PaaS with Spring and Cloud Foundry (SpringOne2GX 2014)"
+        },
+        {
+            "type": "youtube",
+            "id": "ObKGl0f5a7I",
+            "title": "Apps + Data + Cloud: What Does It All Mean? (SpringOne2GX 2014)"
+        },
+        {
+            "type": "youtube",
+            "id": "TUmNQOzDVis",
+            "title": "Cloud Foundry and Microservices: A Mutualistic Symbiotic Relationship (CF Summit 2014)"
+        },
+        {
+            "type": "youtube",
+            "id": "D8eCUR0QK-s",
+            "title": "Spring with Immutability (Webinar)"
+        },
+        {
+            "type": "youtube",
+            "id": "v85r4Hy3jbs",
+            "title": "Build Your Very Own Private Cloud Foundry (SpringOne2GX 2013)"
+        },
+        {
+            "type": "web",
+            "url": "https://www.infoq.com/presentations/Effective-Java-techniques",
+            "title": "Effective Java Reloaded (DevNexus 2013)"
+        },
+        {
+            "type": "youtube",
+            "id": "8ClYUo_A3h0",
+            "title": "Vert.x: This ain't your Dad's Node (SF Java Meetup 2012-10-09)"
         }
     ]
 }
