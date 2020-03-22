@@ -37,6 +37,8 @@ bio: My research interests lean/agile software development methodologies, DevOps
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
 
+#  Comment for testing.
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -77,4 +79,4 @@ Matt Stine is an {{< career_years >}} year veteran of the enterprise IT industry
 
 Matt spends much of his time thinking about lean/agile software development methodologies, DevOps, architectural principles/patterns/practices, and programming paradigms, in an attempt to find the perfect storm of techniques that will allow corporate IT organizations to not only function like startup companies, but also create software that delights users while maintaining a high degree of conceptual integrity. He is currently Executive Director, Architecture, for [JPMorgan Chase](https://www.jpmorgan.com/) Asset and Wealth Management.
 
-Matt has spoken at conferences ranging from JavaOne to OSCON to YOW!, was a ten-year member of the [No Fluff Just Stuff](https://nofluffjuststuff.com) tour, and previously served as Technical Editor of [NFJS the Magazine](https://nofluffjuststuff.com/magazine/). Matt is also the founder and past president of the [Memphis Java User Group](http://www.memphisjug.org).
+Matt has spoken at conferences ranging from JavaOne to OSCON to YOW!, was a ten-year member of the [No Fluff Just Stuff](https://nofluffjuststuff.com) tour, and previously served as Technical Editor of [NFJS the Magazine](https://nofluffjuststuff.com/magazine/). Matt is also the founder and past president of the Memphis Java User Group.
