@@ -18,7 +18,7 @@ organizations:
   url: "https://jpmorgan.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests lean/agile software development methodologies, DevOps, architectural principles/patterns/practices, and programming paradigms.
 
 #interests:
 #- Artificial Intelligence

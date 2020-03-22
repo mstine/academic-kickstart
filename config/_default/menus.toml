@@ -28,6 +28,11 @@
   url = "#interviews"
   weight = 33
 
+[[main]]
+  name = "Appearances"
+  url = "#appearances"
+  weight = 34
+
 #[[main]]
 #  name = "Projects"
 #  url = "#projects"
