@@ -18,6 +18,16 @@
   url = "#videos"
   weight = 31
 
+[[main]]
+  name = "Articles"
+  url = "#articles"
+  weight = 32
+
+[[main]]
+  name = "Interviews"
+  url = "#interviews"
+  weight = 33
+
 #[[main]]
 #  name = "Projects"
 #  url = "#projects"

@@ -1,0 +1,56 @@
+---
+items:
+  - title: What’s Your Decomposition Strategy?
+    url: https://builttoadapt.io/whats-your-decomposition-strategy-e19b8e72ac8f
+  - title: Ian Malcolm on Software Development
+    url: https://medium.com/@mstine/ian-malcolm-on-software-development-aca8128e9765
+  - title: On Orchestrated Microservices
+    url: https://medium.com/built-to-adapt/on-orchestrated-microservices-5c8bd787ead4
+  - title: Build self-healing distributed systems with Spring Cloud
+    url: http://www.infoworld.com/article/2925047/application-development/build-self-healing-distributed-systems-with-spring-cloud.html
+  - title: Leave the Campground Cleaner
+    url: https://dzone.com/articles/leave-campground-cleaner
+  - title: On Gaelyks and Golden Hammers
+    url: https://dzone.com/articles/gaelyks-and-golden-hammers
+  - title: "Executable Specifications: Automating Your Requirements Document"
+    url: https://dzone.com/articles/executable-specifications
+  - title: "Is the Apple JVM an \"Extra Feature?\""
+    url: https://dzone.com/articles/apple-jvm-extra-feature
+  - title: Automation for the People (because Everybody Doing It Manually Hurts)
+    url: https://dzone.com/articles/automation-people-because
+  - title: Build Scripts? We Don't Need No Stinkin' Build Scripts!
+    url: https://dzone.com/articles/build-scripts-we-dont-need-no
+  - title: Failed Metric, Failed Build?
+    url: https://dzone.com/articles/failed-metric-failed-build
+  - title: Yes You Kanban!
+    url: https://dzone.com/articles/yes-you-kanban
+  - title: "Modular Agile: Loosely coupled, highly cohesive ceremonies"
+    url: https://dzone.com/articles/modular-agile-loosely-coupled
+  - title: "Think You're \"Doing Kanban?\" Think Again."
+    url: https://dzone.com/articles/think-youre-doing-kanban-think
+  - title: The Seven Wastes of Software Development (Series)
+    url: https://dzone.com/articles/seven-wastes-software
+  - title: You Are Your Software's Immune System!
+    url: https://dzone.com/articles/you-are-your-softwares-immune
+  - title: Feedback is the Key!
+    url: https://dzone.com/articles/feedback-key
+  - title: Show (Don't Tell), Persuade (Don't Preach)
+    url: https://dzone.com/articles/show-dont-tell-persuade-dont
+  - title: But the ScrumMaster said I had to!
+    url: https://dzone.com/articles/scrummaster-said-i-had
+  - title: A Case for Feature Branches
+    url: https://dzone.com/articles/case-feature-branches
+  - title: The Agile Guerilla
+    url: https://dzone.com/articles/agile-guerilla
+  - title: "Going Guerilla: Where to Start"
+    url: https://dzone.com/articles/going-guerilla-where-start
+  - title: The Guerilla's Workflow
+    url: https://dzone.com/articles/guerillas-workflow
+  - title: Guerilla TDD
+    url: https://dzone.com/articles/guerilla-tdd
+  - title: Guerilla CI
+    url: https://dzone.com/articles/guerilla-continuous
+  - title: So What Are You Waiting For? GO BANANAS!
+    url: https://dzone.com/articles/so-what-are-you-waiting-go
+  - title: Use Stories to Deliver Business Value
+    url: https://dzone.com/articles/use-stories-deliver
