@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Executive Director, Architecture
+role: Executive Director, Software Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -75,8 +75,8 @@ user_groups:
 - Visitors
 ---
 
-Matt Stine is an {{< career_years >}} year veteran of the enterprise IT industry, with seven of those years spent as a consulting solutions architect for multiple Fortune 500 companies, as well as the not-for-profit [St. Jude Children's Research Hospital](https://www.stjude.org). He is the author of [Migrating to Cloud-Native Application Architectures](http://www.oreilly.com/programming/free/migrating-cloud-native-application-architectures.csp) from O'Reilly, and the host of the [Software Architecture Radio](http://www.softwarearchitecturerad.io) podcast.
+Matt Stine is a {{< career_years >}} year veteran of the enterprise IT industry, with seven of those years spent as a consulting solutions architect for multiple Fortune 500 companies, as well as the not-for-profit [St. Jude Children's Research Hospital](https://www.stjude.org). He is the author of [Migrating to Cloud-Native Application Architectures](http://www.oreilly.com/programming/free/migrating-cloud-native-application-architectures.csp) from O'Reilly, and the host of the [Software Architecture Radio](http://www.softwarearchitecturerad.io) podcast.
 
-Matt spends much of his time thinking about lean/agile software development methodologies, DevOps, architectural principles/patterns/practices, and programming paradigms, in an attempt to find the perfect storm of techniques that will allow corporate IT organizations to not only function like startup companies, but also create software that delights users while maintaining a high degree of conceptual integrity. He is currently Executive Director, Architecture, for [JPMorgan Chase](https://www.jpmorgan.com/) Asset and Wealth Management.
+Matt spends much of his time thinking about lean/agile software development methodologies, DevOps, architectural principles/patterns/practices, and programming paradigms, in an attempt to find the perfect storm of techniques that will allow corporate IT organizations to not only function like startup companies, but also create software that delights users while maintaining a high degree of conceptual integrity. He is currently an Executive Director, Software Engineering, in [JPMorgan Chase](https://www.jpmorgan.com/)'s Chief Technology Office.
 
 Matt has spoken at conferences ranging from JavaOne to OSCON to YOW!, was a ten-year member of the [No Fluff Just Stuff](https://nofluffjuststuff.com) tour, and previously served as Technical Editor of [NFJS the Magazine](https://nofluffjuststuff.com/magazine/). Matt is also the founder and past president of the Memphis Java User Group.
