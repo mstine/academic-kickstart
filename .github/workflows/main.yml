@@ -21,14 +21,17 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
+      with:
+        submodules: true
 
-    - name: Hugo Actions
-      uses: srt32/hugo-action@v0.0.3
+    - name: Hugo Build 
+      uses: gaol/hugo-gh-action@1.2
 
-    # Runs a set of commands using the runners shell
-    - name: Run a multi-line script
-      run: |
-        cd mstine.github.io
-        git add .
-        git commit -m "deploy the site"
-        git push origin master
+    - name: GitHub Sites Publish
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        external_repository: mstine/mstine.github.io
+        personal_token: ${{ secrets.PERSONAL_TOKEN }}
+        publish_dir: ./public
+        publish_branch: master
+
