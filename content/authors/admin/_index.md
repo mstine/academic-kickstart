@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Executive Director, Software Engineering
+role: Software Engineer/Architect & Writer
 
 # Organizations/Affiliations
-organizations:
-- name: JPMorgan Chase
-  url: "https://jpmorgan.com"
+#organizations:
+#- name: JPMorgan Chase
+  #url: "https://jpmorgan.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lean/agile software development methodologies, DevOps, architectural principles/patterns/practices, and programming paradigms.
@@ -79,6 +79,6 @@ Matt Stine is a {{< career_years >}} year veteran of the enterprise IT industry,
 
 Matt is a frequent publisher of Atomic Essays and Twitter Threads on software engineering and other topics. You can find most of his current writing at his [Social Blog](https://typeshare.co/g/mstine) on [TypeShare](https://typeshare.co). If you'd like to learn how to become a successful online writer, I'd invite you to sign-up for an upcoming cohort of [Ship 30 for 30](https://enroll.ship30for30.com/a/xubgz).
 
-Matt spends much of his time thinking about lean/agile software development methodologies, DevOps, architectural principles/patterns/practices, and programming paradigms, in an attempt to find the perfect storm of techniques that will allow corporate IT organizations to not only function like startup companies, but also create software that delights users while maintaining a high degree of conceptual integrity. He is currently an Executive Director, Software Engineering, in [JPMorgan Chase](https://www.jpmorgan.com/)'s Chief Technology Office.
+Matt spends much of his time thinking about lean/agile software development methodologies, DevOps, architectural principles/patterns/practices, and programming paradigms, in an attempt to find the perfect storm of techniques that will allow corporate IT organizations to not only function like startup companies, but also create software that delights users while maintaining a high degree of conceptual integrity. He currently provides technical leadership at one of the world's largest banks.
 
 Matt has spoken at conferences ranging from JavaOne to OSCON to YOW!, was a ten-year member of the [No Fluff Just Stuff](https://nofluffjuststuff.com) tour, and previously served as Technical Editor of [NFJS the Magazine](https://nofluffjuststuff.com/magazine/). Matt is also the founder and past president of the Memphis Java User Group.
