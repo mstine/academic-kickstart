@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Software Engineer/Architect & Writer
+role: I talk about digital knowledge management for enterprise software engineers • Shipping software daily at the largest bank in the United States
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +18,7 @@ role: Software Engineer/Architect & Writer
   #url: "https://jpmorgan.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lean/agile software development methodologies, DevOps, architectural principles/patterns/practices, and programming paradigms.
+bio: I talk about digital knowledge management for enterprise software engineers • Shipping software daily at the largest bank in the United States
 
 #interests:
 #- Artificial Intelligence
@@ -50,6 +50,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mstine
+- icon: ship
+  icon_pack: fas
+  link: https://typeshare.co/mstine
 #- icon: google-scholar
  # icon_pack: ai
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -75,10 +78,33 @@ user_groups:
 - Visitors
 ---
 
-Matt Stine is a {{< career_years >}} year veteran of the enterprise IT industry, with seven of those years spent as a consulting solutions architect for multiple Fortune 500 companies, as well as the not-for-profit [St. Jude Children's Research Hospital](https://www.stjude.org). He is the author of [Migrating to Cloud-Native Application Architectures](http://www.oreilly.com/programming/free/migrating-cloud-native-application-architectures.csp) from O'Reilly, and the host of the [Software Architecture Radio](http://www.softwarearchitecturerad.io) podcast.
+My passion is taking a metaphysical approach to software engineering: **what is the nature of the collaborative game that we continuously play, and are there better, more contextually-aware ways to play that game?**
 
-Matt is a frequent publisher of Atomic Essays and Twitter Threads on software engineering and other topics. You can find most of his current writing at his [Social Blog](https://typeshare.co/g/mstine) on [TypeShare](https://typeshare.co). If you'd like to learn how to become a successful online writer, I'd invite you to sign-up for an upcoming cohort of [Ship 30 for 30](https://enroll.ship30for30.com/a/xubgz).
+By day I lead a team tasked with taking **a first-principles-centric approach to intentionally enabling programming language usage** at the largest bank in the United States.
 
-Matt spends much of his time thinking about lean/agile software development methodologies, DevOps, architectural principles/patterns/practices, and programming paradigms, in an attempt to find the perfect storm of techniques that will allow corporate IT organizations to not only function like startup companies, but also create software that delights users while maintaining a high degree of conceptual integrity. He currently provides technical leadership at one of the world's largest banks.
+By night I write and teach my way through **a masterclass in software engineering and architecture targeting early-career software engineers working in large-scale enterprise technology organizations**.
 
-Matt has spoken at conferences ranging from JavaOne to OSCON to YOW!, was a ten-year member of the [No Fluff Just Stuff](https://nofluffjuststuff.com) tour, and previously served as Technical Editor of [NFJS the Magazine](https://nofluffjuststuff.com/magazine/). Matt is also the founder and past president of the Memphis Java User Group.
+## What is the primary goal?
+
+To win the game. More seriously: **to get 1% better every day at providing business value through software.**
+
+## Who am I?
+
+I'm a {{< career_years >}}-year veteran of the enterprise software industry. I've played almost every role I can imagine:
+
+- Software Engineer
+- Software Architect
+- Technical Lead
+- Engineering Manager
+- Consultant
+- Product Manager
+- Field CTO
+- Developer Advocate
+- Conference Speaker
+- Author
+- Technical Trainer
+- Technical Marketer
+- Site Reliability Engineer
+- Desktop Support Specialist
+
+I've worked at Fortune 500 companies, a tenacious teal cloud startup, and a not-for-profit children's hospital. I've written a book, and I've hosted a podcast. I've learned a lot along the way, including many things I wish I'd known when I first got started. And so now I want to pass those learnings on to you, especially if you've only just begun your career.
