@@ -7,3 +7,5 @@ public/
 
 # Mac
 .DS_Store
+
+.hugo_build.lock
