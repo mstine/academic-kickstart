@@ -38,7 +38,7 @@ hero_media = "s_hero.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://leanpub.com/humility-driven-development"
-  label = "Get Your Copy Here!"
+  label = "Preorder Your Copy Here!"
   icon_pack = "fas"
   icon = "envelope"
   
