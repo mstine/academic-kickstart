@@ -47,9 +47,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:matt.stine@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: mastodon
   icon_pack: fab
-  link: https://twitter.com/mstine
+  link: https://mastodon.sdf.org/@mstine
 - icon: ship
   icon_pack: fas
   link: https://typeshare.co/mstine
