@@ -18,3 +18,4 @@ autolink = true
 email_form = 0
 +++
 
+<a rel="me" href="https://mastodon.sdf.org/@mstine">Find Me in the Fediverse!</a>
