@@ -83,6 +83,7 @@ I'm taking a moment to rethink what I want to do with this site completely.
 I'm working with an evolving set of values to guide me:
 
 - I don't want to track you. **I have removed Google Analytics.** If you want to tell me you were here, be my guest. My contact information is to the left of this list.
+- My Hugo template uses cookies for reasons I need to track down, so I've turned on the "cookie warning" as part of full disclosure. In alignment with the previous value, I apologize for failing to do this earlier.
 - I don't want to put my writing inside corporately-owned, commercially-motivated social media anymore. It's going to live here mostly.
 - I'd rather not host my content anywhere unless it's a non-profit or an otherwise trustworthy/ethically-sound company that I've decided to support.
 - There was a time this site was primarily about "personal brand building" and pointing you to products you could buy from me. While things will still be available for sale, they won't be the main event.
