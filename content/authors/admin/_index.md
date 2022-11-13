@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: I talk about digital knowledge management for enterprise software engineers • Shipping software daily at the largest bank in the United States
+role: Member of the Shouting Class • Indignant Curmudgeon • Domain-Oriented Adaptive Software Architectures • Bitter Southerner • PKM • Staff+ Engineer
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +18,7 @@ role: I talk about digital knowledge management for enterprise software engineer
   #url: "https://jpmorgan.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I talk about digital knowledge management for enterprise software engineers • Shipping software daily at the largest bank in the United States
+bio: Member of the Shouting Class • Indignant Curmudgeon • Domain-Oriented Adaptive Software Architectures • Bitter Southerner • PKM • Staff+ Engineer
 
 #interests:
 #- Artificial Intelligence
@@ -50,9 +50,12 @@ social:
 - icon: mastodon
   icon_pack: fab
   link: https://mastodon.sdf.org/@mstine
-- icon: ship
-  icon_pack: fas
-  link: https://typeshare.co/mstine
+# - icon: pixelfed
+#   icon_pack: custom
+#   link: https://pixelfed.social/i/web/profile/495329294625724461
+# - icon: ship
+#   icon_pack: fas
+#   link: https://typeshare.co/mstine
 #- icon: google-scholar
  # icon_pack: ai
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -75,33 +78,26 @@ user_groups:
 - Visitors
 ---
 
-My passion is taking a metaphysical approach to software engineering: **what is the nature of the collaborative game that we continuously play, and are there better, more contextually-aware ways to play that game?**
+I'm taking a moment to rethink what I want to do with this site completely.
 
-By day I lead a team tasked with taking **a first-principles-centric approach to intentionally enabling programming language usage** at the largest bank in the United States.
+I'm working with an evolving set of values to guide me:
 
-By night I write and teach my way through **a masterclass in software engineering and architecture targeting early-career software engineers working in large-scale enterprise technology organizations**.
+- I don't want to track you. **I have removed Google Analytics.** If you want to tell me you were here, be my guest. My contact information is to the left of this list.
+- I don't want to put my writing inside corporately-owned, commercially-motivated social media anymore. It's going to live here mostly.
+- I'd rather not host my content anywhere unless it's a non-profit or an otherwise trustworthy/ethically-sound company that I've decided to support.
+- There was a time this site was primarily about "personal brand building" and pointing you to products you could buy from me. While things will still be available for sale, they won't be the main event.
 
-## What is the primary goal?
+That's mostly where my head is right now.
 
-To win the game. More seriously: **to get 1% better every day at providing business value through software.**
+## Corporate Social Media
 
-## Who am I?
+For the sake of this discussion, we'll call these "the big four:"
 
-I'm a {{< career_years >}}-year veteran of the enterprise software industry. I've played almost every role I can imagine:
+- Twitter
+- Facebook
+- Instagram
+- LinkedIn
+  
+If you've been looking for me there and can't find me or wonder why I've mysteriously disappeared, it's because I have. Except for Twitter, I've downloaded the data from and deleted all of my accounts. I've left behind a tombstone on Twitter, if only because I had a large following. I'll have more to say about these in the coming weeks.
 
-- Software Engineer
-- Software Architect
-- Technical Lead
-- Engineering Manager
-- Consultant
-- Product Manager
-- Field CTO
-- Developer Advocate
-- Conference Speaker
-- Author
-- Technical Trainer
-- Technical Marketer
-- Site Reliability Engineer
-- Desktop Support Specialist
-
-I've worked at Fortune 500 companies, a tenacious teal cloud startup, and a not-for-profit children's hospital. I've written a book, and I've hosted a podcast. I've learned a lot along the way, including many things I wish I'd known when I first got started. And so now I want to pass those learnings on to you, especially if you've only just begun your career.
+At any rate, you can find me in the Fediverse easily via [mstine@mastodon.sdf.org](https://mastodon.sdf.org/@mstine).
